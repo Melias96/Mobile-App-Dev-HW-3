@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "185389222392",
+    "project_id": "myapp-c23f7",
+    "storage_bucket": "myapp-c23f7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:185389222392:android:f418571bfe1f38c2da2e0d",
+        "android_client_info": {
+          "package_name": "com.melias4.myapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "185389222392-bi5v4ke8jt1gbe9f86hotqrmnutidta8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3e4CG1wBCsgknRaV1zLnyEuMela51qU4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "185389222392-bi5v4ke8jt1gbe9f86hotqrmnutidta8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
